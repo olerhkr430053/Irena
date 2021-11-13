@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/olerhkr430053/Irena",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
